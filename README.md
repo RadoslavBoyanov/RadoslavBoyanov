@@ -4,7 +4,7 @@
 - 💞️ I am looking to collaborate with programmers to learn new things and develop!
 - 📫 How to reach me r.m.boyanov@gmail.com; RadoslavBoyanov@students.softuni.bg; https://www.facebook.com/radoslavboianov; https://www.instagram.com/boyanov.radoslav/ ;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBoyanov)](https://github.com/RadoslavBoyanov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadoslavBoyanov)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 RadoslavBoyanov/RadoslavBoyanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
