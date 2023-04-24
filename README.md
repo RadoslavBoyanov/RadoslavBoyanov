@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadoslavBoyanov
-- 👀 I’m interested in studying.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in studying, adventures, hiking, sport, reading books etc..
+- 🌱 I’m currently learning C# in Software University - Sofia, Bulgaria.
 - 💞️ I am looking to collaborate with programmers to learn new things and develop!
 - 📫 How to reach me r.m.boyanov@gmail.com; RadoslavBoyanov@students.softuni.bg; https://www.facebook.com/radoslavboianov; https://www.instagram.com/boyanov.radoslav/ ;
 
