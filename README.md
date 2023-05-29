@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RadoslavBoyanov&style=for-the-badge)
 
-(https://github.com/boyanov.radoslav/boyanov.radoslav/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 RadoslavBoyanov/RadoslavBoyanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
