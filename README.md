@@ -9,7 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBoyanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=RadoslavBoyanov&style=for-the-badge)
-![Snake animation](https://github.com/thepiyushmalhotra/RadoslavBoyanov/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/RadoslavBoyanov/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 RadoslavBoyanov/RadoslavBoyanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
