@@ -6,9 +6,9 @@
 - 💞️ I am looking to collaborate with programmers to learn new things and develop!
 - 📫 How to reach me r.m.boyanov@gmail.com; RadoslavBoyanov@students.softuni.bg; https://www.facebook.com/radoslavboianov; https://www.instagram.com/boyanov.radoslav/ ;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadoslavBoyanov&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RadoslavBoyanov&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBoyanov&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBoyanov&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=RadoslavBoyanov&style=for-the-badge)
 
