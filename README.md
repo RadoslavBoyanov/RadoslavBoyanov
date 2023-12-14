@@ -1,3 +1,5 @@
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 - 👋 Hi, I’m @RadoslavBoyanov
 - 👀 I’m interested in studying, adventures, hiking, sport, reading books etc..
 - 🌱 I’m currently learning C# in Software University - Sofia, Bulgaria.
