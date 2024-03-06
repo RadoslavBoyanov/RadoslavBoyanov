@@ -17,13 +17,14 @@
 - ⚙️ Others: [![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)](https://www.json.org/)
 
 
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RadoslavBoyanov&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavBoyanov&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=RadoslavBoyanov&style=for-the-badge)
+
+![Примерен GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp6bng0cXJvdGR4NzliYWdxaWt4Y3U0OGZpNmJ5bmZ6d2hpMXY3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif)
+
 
 <!---
 RadoslavBoyanov/RadoslavBoyanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
