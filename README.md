@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @RadoslavBoyanov</h1>
+<h1>👋 Hi, I’m Radoslav Boyanov</h1>
 - 👀 I’m interested in studying, adventures, hiking, sport, reading books etc..
 - 🌱 I’m currently learning C# in Software University - Sofia, Bulgaria.
 - 💞️ I am looking to collaborate with programmers to learn new things and develop!
