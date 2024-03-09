@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning C# in Software University - Sofia, Bulgaria.
 - 💞️ I am looking to collaborate with programmers to learn new things and develop!
 
+ ![Алтернативен текст](https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAwMTYxNDUsIm5iZiI6MTcxMDAxNTg0NSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA5VDIwMjQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzMDBkZmU3NjNkNjQ2MzY5NDYxMDUxM2NjMjg0NGEzN2YwYjRlMzQzZWI2MjIyMzkwZWYwNGI2MmJkNmRjNTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.upIaaD1XSqmxcyuOnC0QePlFyySfURExC2e6afYLcTo)
+
+
 - 👨‍💻 Working on: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - 🌐 Browsers: ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 - 💻 BackEnd: [![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
